@@ -1,0 +1,13 @@
+#Nvidia_umet_dependence error/synaptic error package
+#Fix of that nvidia lib package:
+https://askubuntu.com/questions/1285472/ubuntu-18-04-broken-install-problem-with-libnvidia-common-450-package/1285659#1285659
+sudo apt-get -o Dpkg::Options::="--force-overwrite" install -f libnvidia-common-450-server
+
+then
+sudo apt-autremove
+sudo apt-get upgraded
+
+
+
+#if need to switch graphics card
+https://ubuntuhandbook.org/index.php/2016/04/switch-intel-nvidia-graphics-ubuntu-16-04/
