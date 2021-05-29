@@ -1,0 +1,4 @@
+#when an app frozes ubuntu screen
+https://esc.sh/blog/what-to-do-when-your-computer-running-ubuntu-freezes/#:~:text=You%20could%20try%20Ctrl%2BAlt,to%20get%20into%20the%20tty.
+https://www.fosslinux.com/39434/5-things-to-do-when-your-linux-system-gui-freezes.htm
+https://unix.stackexchange.com/questions/31818/what-to-do-when-a-linux-desktop-freezes
